@@ -12,7 +12,7 @@ A quick and simple way to add Tailwind CSS to Laravel.
 
 - You must have Yarn or Npm installed.
 - You must use Sass (_contents will be changed in resources/sass/app.scss_)
-- You must use WebPack (_contents will be changed in webpack.mix.js_).
+- You must use Laravel Mix (_contents will be changed in webpack.mix.js_).
 
 ## Installation
 -------
