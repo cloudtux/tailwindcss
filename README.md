@@ -3,6 +3,10 @@
 
 A quick and simple way to add Tailwind CSS to Laravel.
 
+[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/cloudtux/tailwindcss/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/cloudtux/tailwindcss/?branch=master)
+[![Build Status](https://scrutinizer-ci.com/g/cloudtux/tailwindcss/badges/build.png?b=master)](https://scrutinizer-ci.com/g/cloudtux/tailwindcss/build-status/master)
+[![Maintainability](https://api.codeclimate.com/v1/badges/8eea1c09b49874877bac/maintainability)](https://codeclimate.com/github/cloudtux/tailwindcss/maintainability)
+
 ## Requirements
 -------
 
